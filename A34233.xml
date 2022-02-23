@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The confession and execution of the prisoners at Tyburn on Wednesday the 11th of this instant June 1679. Viz. Robert Bareford for a burglary. Benjamin Dauforn for pocket-picking. Henry Senson for a burglary. Richard Capel of felony. Being a satisfactory account of all their crimes for which they suffered, the rest being most graciously reprieved. With an account of their deportment in prison, and at the place of execution, with several other remarkable circumstances. As also a true narration of a notorious robbery committed on the house of Sir Tho. Nightingal of Langham in the county of Essex, by five persons, in Thursday-night the 5th of this instant June, two of which are now taken, and in Newgate.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34233</idno>
+            <idno type="STC">Wing C5753</idno>
+            <idno type="STC">ESTC R214336</idno>
+            <idno type="EEBO-CITATION">99826529</idno>
+            <idno type="PROQUEST">99826529</idno>
+            <idno type="VID">30932</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34233)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30932)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 1775:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The confession and execution of the prisoners at Tyburn on Wednesday the 11th of this instant June 1679. Viz. Robert Bareford for a burglary. Benjamin Dauforn for pocket-picking. Henry Senson for a burglary. Richard Capel of felony. Being a satisfactory account of all their crimes for which they suffered, the rest being most graciously reprieved. With an account of their deportment in prison, and at the place of execution, with several other remarkable circumstances. As also a true narration of a notorious robbery committed on the house of Sir Tho. Nightingal of Langham in the county of Essex, by five persons, in Thursday-night the 5th of this instant June, two of which are now taken, and in Newgate.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Union Theological Seminary (New York, N.Y.).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30932:1"/>
+            <pb facs="tcp:30932:1" rendition="simple:additions"/>
+            <p>The CONFESSION And EXECUTION Of the PRISONERS at TYBURN ON <hi>Wedneſday</hi> the 11th of this Inſtant <hi>June</hi> 1679.
+<list>
+                  <head>Viz.</head>
+                  <item>
+                     <hi>Robert Bareford</hi> for a Burglary.</item>
+                  <item>
+                     <hi>Benjamin Dauforn</hi> for Pocket-picking.</item>
+                  <item>
+                     <hi>Henry Senſon</hi> for a Burglary.</item>
+                  <item>
+                     <hi>Richard Capel</hi> for Felony.</item>
+               </list>
+            </p>
+            <p>Being a ſatisfactory Account of all their Crimes for which they ſuffered, the reſt being moſt graciouſly Reprieved.</p>
+            <p>WITH An Account of their Deportment in Priſon, and at the place of Execution, with ſeveral other remar<g ref="char:EOLhyphen"/>kable Circumſtances.</p>
+            <p>As alſo a true Narration of a notorious Robbery com<g ref="char:EOLhyphen"/>mitted on the Houſe of Sir <hi>Tho. Nightingal of Lang<g ref="char:EOLhyphen"/>ham</hi> in the County of <hi>Eſſex,</hi> by five perſons, on <hi>Thurſday</hi>-night the 5th of this inſtant <hi>June,</hi> two of which are now taken, and in <hi>Newgate.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>D. M.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="execution_account">
+            <pb facs="tcp:30932:2"/>
+            <pb facs="tcp:30932:2" rendition="simple:additions"/>
+            <head>The Execution of the Priſoners at <hi>Tyburn.</hi>
+            </head>
+            <p>THE miſerable Cataſtrophies of theſe deplored Wretches, whoſe ſad ends (though well deſerv<g ref="char:EOLhyphen"/>ed by reaſon of their Crimes) I here purpoſe to relate, the which may ſure amuſe the World, and rouſe ſecure Sinners from their drouſineſs, leſt dread<g ref="char:EOLhyphen"/>ful Fate awake 'em, when too late, only to view their ſure and certain Death.</p>
+            <p>The firſt in this Diſaſter was <hi>Robert Bareford,</hi> for com<g ref="char:EOLhyphen"/>mitting a Burglary upon a Houſe in St. <hi>Katherines,</hi> com<g ref="char:EOLhyphen"/>monly called by the Name of the Seven Stars; and thence felloniouſly bearing away, contrary to the eſtabliſhed Laws of this Nation, and His Majeſties Crown and Dignity, ſe<g ref="char:EOLhyphen"/>veral Parcels, as well Houſhold-goods as Money, to a con<g ref="char:EOLhyphen"/>ſiderable value. Part of the Goods being found upon him he was committed: and in Court the Fellony and Burglary proved, he received Sentence, and on <hi>Wedneſday</hi> being the 11th of this inſtant <hi>June,</hi> 1679 ſuffered accordingly at <hi>Ty<g ref="char:EOLhyphen"/>burn.</hi> His penitence, as to outward appearance, ſeemed more than commonly from ſuch Offenders can be expect<g ref="char:EOLhyphen"/>ed</p>
+            <p>The next of whom we ſhall treat, that by his evil cour<g ref="char:EOLhyphen"/>ſes
+<pb n="4" facs="tcp:30932:3"/> brought himſelf to this untimely and diſgraceful end, was <hi>Richard Capel;</hi> a young Man, but an old Offender; having been once burnt in the Hand at <hi>Surry</hi> Aſſizes: And in the late Conflagration of <hi>New Priſon,</hi> he then being Priſoner there, eſcaped thence in the Hurry and Throng of People aſſembled at that time for the extinguiſhing of the Fire: of which Fire I ſuppoſe few are ignorant. He not being content with his liberty, fell to his old Employment afreſh; for, as our <hi>Engliſh</hi> Proverb more fully denotes, <hi>Im<g ref="char:EOLhyphen"/>poſſible 'tis to wiſh an</hi> Ethiopian <hi>white,</hi> ſo accuſtomed Crimes do ſeldome leave indulged Sinners; for theſe often warnings were not ſufficient to prevail upon his ſerious thoughts, but following ſtill thoſe fatal Tracks that tend to Death and Hell, at laſt he was Enſnared in his Devices: For one Evening, ſomewhat late, he did commit a Fellony in a Cooks Houſe in <hi>Blackamore-ſtreet,</hi> bearing thence as much Pewter as he could conveniently carry; being met and ſtopped by the Watch, he told them he had it in ſuch a place, but the people being called up would not own it; but after ſome time they, by the Marks, found the right Owner; whereupon he was committed, and after ſenten<g ref="char:EOLhyphen"/>ced, and this day executed. His Behaviour in Priſon af<g ref="char:EOLhyphen"/>ter his condemnation was more than ordinarily pennitent, confeſſing and bewailing his former lude and vicious cour<g ref="char:EOLhyphen"/>ſes; for it is commonly ſeen that Death's unavoidable ap<g ref="char:EOLhyphen"/>proach often ſtartles the hardeſt Sinner. At the place of Execution he deſired all to take warning by his untimely end, and that they timely would repent.</p>
+            <p>
+               <hi>Benjamin Dauforn</hi> was the next; for that Artificial Trade of Pocket-picking; and 'tis the more remarkable by rea<g ref="char:EOLhyphen"/>ſon he durſt venture upon that unlawful Art in the Grand
+<pb n="5" facs="tcp:30932:3"/> place this Nation has ſo long been pleaſed to build <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Seats of Juſtice in; I mean <hi>Weſtminſter-Hall:</hi> for on <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 18th of <hi>May</hi> laſt paſt, he unlawfully took a Purſe out of <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Gentlemans Pocket, and in it 4 or 5 pounds, it being then <hi>Term-Time:</hi> He being purſued, threw down the Money in the Corner of a Window; but notwitſtanding he was Apprehended and Committed for the ſame: and it appearing upon his Tryal that he was an old Offender, he was Sentenced, and this day Executed. He likewiſe at the place of Execution, when he ſaw all hopes of pardon vain, and that Death's fatal Aſpects were ſo dreadful, ſhed a<g ref="char:EOLhyphen"/>bundance of tears for his former ſins, and begged eternal mercy for his Soul.</p>
+            <p>The next, in order, was <hi>Henry Seaſon,</hi> for robbing a Per<g ref="char:EOLhyphen"/>ſon of Quality in <hi>Cheſwick,</hi> and felloniouſly bearing away a Flitch of Bacon, two Kettles, and other things, he ha<g ref="char:EOLhyphen"/>ving been an old Effender heretofore, was ſentenced, and accordingly executed. He much bewailed his Offences during his being in the Hold, and ſaid, That bad Compa<g ref="char:EOLhyphen"/>ny had enticed him to act that, and many other Exploits; but that he hoped for mercy from above, although he could expect none here below, by reaſon of the hainouſ<g ref="char:EOLhyphen"/>neſs of his former Offenees; and he was exceeding peni<g ref="char:EOLhyphen"/>tent to the laſt, deſiring the Spectators to ſupplicate Omni<g ref="char:EOLhyphen"/>potence for mercy on his Soul, when he ſhould appear be<g ref="char:EOLhyphen"/>fore the Dread Tribunal, to anſwer for his wilful and heed<g ref="char:EOLhyphen"/>leſs Sin, and former Offences.</p>
+            <p>There were ſeaven more Condemned to Die, but re<g ref="char:EOLhyphen"/>ceived a moſt gracious Reprieve, in expectation of their Amendment for the future.</p>
+            <pb n="6" facs="tcp:30932:4"/>
+            <p>And now one would imagine theſe ſo often repeated Ex<g ref="char:EOLhyphen"/>amples of offended juſtice ſhould reſtrain offending miſcre<g ref="char:EOLhyphen"/>ants; but Deaths grim terrors ſeem but ſhadows till his ſure approach do undeceive their blinded Judgments; as may in this be ſeen the narration of which I ſhall here unto An<g ref="char:EOLhyphen"/>nex by reaſon Crimes deſerving death may neareſt ſute with its intendancy: The which narration is of a notorious Robery committed by five perſons, (two of which are now in <hi>New-gate</hi>) who breaking into the Houſe of Sir <hi>Thomas Nightingall</hi> of <hi>Langham,</hi> In the County of <hi>Eſſex,</hi> on <hi>Thurſ<g ref="char:EOLhyphen"/>day</hi>-night the 5th. of <hi>June</hi> 1679. and bearing away from thence in Money, Jewels and Plate the value of ſeven hundred pounds.</p>
+         </div>
+         <div type="crime_report">
+            <head>The Account of the Felony and Burglary Committed at and upon the houſe of Sir <hi>Tho. Nightingal,</hi> at <hi>Langham,</hi> in the County of <hi>Eſſex,</hi> on <hi>Thurſday</hi> the 6th of this Inſtant <hi>June, 1679.</hi> the manner as followeth.</head>
+            <p>THE ſaid Sir <hi>Thomas</hi> his Son entertaining in his Ser<g ref="char:EOLhyphen"/>vice, as his Footman or Attendant, one <hi>Tho. Cotten</hi> (commonly called <hi>Longboy</hi> by reaſon of excellent skill in running) who, for his many miſdemeanours, and offences, his ſaid Maſter thought fit to diſcharge of his ſaid imploy<g ref="char:EOLhyphen"/>ment and ſervice; who lying up and down the ſaid Town of <hi>Langham,</hi> could not content himſelf but muſt needs though unadviſedly, ſpread ſome ſiniſter Reports of Sir <hi>Tho<g ref="char:EOLhyphen"/>mas,</hi> the Father of his ſaid Maſter, for which he was taken and ſtrip'd of his Livery, the which inraged him ſo far as to vow revenge, for ſo (as he termed it) grievous Affront within a Fortnights ſpace; upon which he immediately
+<pb n="7" facs="tcp:30932:4" rendition="simple:additions"/> made to <hi>London,</hi> where being arrived he went to a certain Vintners houſe with whom he had been formerly acquaint<g ref="char:EOLhyphen"/>ed: The Vintner, at the firſt ſight of him, demanded why he went without his Livery he was formerly wont to wear; upon which the ſaid <hi>Cotten</hi> told him how his Ma<g ref="char:EOLhyphen"/>ſter had uſed him, and aggravated the Circumſtances to an extreme degree: Whereupon the Vintner demanded whe<g ref="char:EOLhyphen"/>ther he would paſs by ſuch an Affront without any endeavours to requite it in ſome nature or other, who anſwered no, for he had already vowed revenge: The Vintner demand<g ref="char:EOLhyphen"/>ed whether the ſaid Sir <hi>Tho. Nightingal</hi> had not any Park of Dear adjoyning to his houſe, a ſymbolical meaning uſed by ſuch kind of perſons, but the ſaid <hi>Cotten</hi> not well un<g ref="char:EOLhyphen"/>derſtanding the interpretation ſimply anſwered no, but that he had only two Does feeding before his houſe: Whereupon the Vintner ask'd him more plainly whether he had ſtore of Silver, Gold, or Jewels, in his preſent poſſeſſion, who told him he had to a confiderable vallue; whereupon they agreed to go down together in a Callaſh or Charriot, drawn with one Horſe, the which they put in execution; and being arrived at the place aforeſaid ſet up at a little Inn or Ale-houſe, ſome diſtance from the a<g ref="char:EOLhyphen"/>foreſaid Sir <hi>Thomas</hi> his houſe, where drinking for ſome time they went to view the Inlets and Conveniences of the ſaid Sir <hi>Thomas</hi> his houſe, and although the aforeſaid <hi>Cotten</hi> was as conveniently deſigned as poſſible, yet was he obſerved and taken notice of by ſeveral of the Inhabitants of the place who were formerly acquainted with him; the which, after the Robbery, raiſed the firſt ſuſpicion of his being a Party in the ſame; but the Vintner and he, after having taken a ſerious view, returned again to <hi>London,</hi> and ſending for a Company of dexterous Fellows, skill'd
+<pb n="8" facs="tcp:30932:5"/> in that Employment, they altogether after ſome merriment agreed to go down and break up the houſe, the ſaid <hi>Cotton</hi> deſcribing to them the manner order and Affairs of the ſame, as alſo where the Plate, Moneys, Jewels, and the like were diſpoſed of, where on <hi>Thurſday</hi>-night, the day aforeſaid, they entered in and carryed away to the value of 700 pounds in Plate and Moneys without being diſcovered by any of the Family. The number that effected the ſame were only five, <hi>viz. Thomas Cotten,</hi> and the Vintner now in <hi>Newgate,</hi> with three others not yet taken in this perni<g ref="char:EOLhyphen"/>cious Intreague. There was one thing worth obſerving, having broke into a Cloſet, they found amongſt the reſt ſix (or thereabouts) Bottles of Mumm, the which Sir <hi>Tho<g ref="char:EOLhyphen"/>mas</hi> had reſerved for his own drinking; theſe they in a bravado muſt needs drink off before they would depart, after which they haſted to <hi>London,</hi> and at the Vintners houſe ſhared their Prey. The next morning Sir <hi>Thomas</hi> finding himſelf robbed, and conſidering the ſtrength of the place thought that the Thieves muſt have Intelle<g ref="char:EOLhyphen"/>gence from ſome that were well acquainted with the houſe whereupon he began to call to mind the threatnings of the aforeſaid <hi>Cotten:</hi> As likewiſe having intellegence by ſome of the Neighbours, that he had been lately in the Town; where upon ſending up with all ſpeed to <hi>London,</hi> he was ſeaſed in his Lodging and being carryed before a Magiſtrate he confeſſed his accomplices and the contrivance of the Ro<g ref="char:EOLhyphen"/>bery as before recited whereupon a Conſtable being ſent the Vintner was taken in his own houſe but the other three eſcaped; for this Fact the ſaid <hi>Thomas Cotten</hi> And the ſaid Vintner were committed to <hi>New-gate</hi> on <hi>Munday</hi> the <hi>9th.</hi> of this inſtant <hi>June</hi> 1679. In order to their Tryals <hi>&amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:30932:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
